@@ -2,7 +2,7 @@ from transformers import PreTrainedTokenizerFast
 
 def get_tokenizer():
     # Initialize the tokenizer
-    tokenizer_fast = PreTrainedTokenizerFast(tokenizer_file="BPE_tokenizer/BPE_tokenizer_32.0K.json")
+    tokenizer_fast = PreTrainedTokenizerFast(tokenizer_file="aranizer/BPE_tokenizer/BPE_tokenizer_32.0K.json")
 
     # List of Arabic diacritics
     arabic_diacritics = ['َ', 'ً', 'ُ', 'ِ', 'ٍ', 'ْ', 'ّ', 'ٓ', '٭', 'ء']
