@@ -22,7 +22,7 @@ Example of tokenizing a text:
 text = "مثال على النص العربي"  # Example Arabic text
 tokens = tokenizer.tokenize(text)
 print(tokens)
-
+```
 AraNizers
 aranizer_bpe32k: Tailored for general language modeling with a 32k vocab size.
 aranizer_bpe50k: Ideal for technical or scientific texts, featuring a 50k vocab size.
