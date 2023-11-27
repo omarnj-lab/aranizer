@@ -52,12 +52,13 @@ aranizer==0.1
 
 Citations:
 If AraNizer benefits your research, please cite us:
-
+```bash
 @misc{AraNizer,
   title={Aranizer: A Custom Tokenizer for Enhanced Arabic Language Processing},
   author={Omar Najar, Serry Sibaee, Lahouari Ghouti & Anis Kouba. Prince Sultan University, Riyadh, Saudi Arabia},
   year={2023},
   howpublished={\url{https://github.com/omarnj-lab/aranizer}}
 }
+```
 
 
