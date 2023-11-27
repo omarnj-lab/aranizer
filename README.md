@@ -8,7 +8,7 @@ Install AraNizer effortlessly with pip:
 ```bash
 pip install AraNizer
 
-Usage
+Usage 
 Start by importing the desired tokenizer from AraNizer:
 
 from AraNizer import aranizer_bpe32k, aranizer_bpe50k, aranizer_bpe64k, aranizer_bpe86k, aranizer_sp32k, aranizer_sp50k, aranizer_sp64k, aranizer_sp86k
@@ -38,7 +38,7 @@ decoded_text = tokenizer.decode(encoded_output)
 print(decoded_text)
 ```
 
-AraNizers
+## AraNizers
 ```bash
 aranizer_bpe32k: Tailored for general language modeling with a 32k vocab size.
 aranizer_bpe50k: Ideal for technical or scientific texts, featuring a 50k vocab size.
@@ -49,23 +49,23 @@ aranizer_sp50k: Designed for complex text analysis, equipped with a 50k vocab si
 aranizer_sp64k: Balances performance and breadth in NLP applications with a 64k vocab size.
 aranizer_sp86k: Supports multilingual and cross-lingual tasks with an 86k vocab size.
 ```
-Requirements:
+## Requirements:
 - transformers
 - sentence_transformers
   
-License:
+## License:
 This project is licensed under the MIT License.
 
-Contact:
+## Contact:
 For queries or assistance, please contact onajar@psu.edu.sa.
 
-Acknowledgments:
+## Acknowledgments:
 Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Kouba, for their invaluable support.
 
-Version:
-aranizer==0.1
+## Version:
+0.1
 
-Citations:
+## Citations:
 If AraNizer benefits your research, please cite us:
 ```bash
 @misc{AraNizer,
