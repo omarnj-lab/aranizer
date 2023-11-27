@@ -23,6 +23,21 @@ text = "مثال على النص العربي"  # Example Arabic text
 tokens = tokenizer.tokenize(text)
 print(tokens)
 ```
+
+Encoding Text:
+To encode text, use the encode method. This converts a text string into a sequence of token ids:
+```bash
+text = "مثال على النص العربي"  # Example Arabic text
+encoded_output = tokenizer.encode(text, add_special_tokens=True)
+print(encoded_output)
+```
+Decoding Text:
+To convert token ids back to text, use the decode method:
+```bash
+decoded_text = tokenizer.decode(encoded_output)
+print(decoded_text)
+```
+
 AraNizers
 ```bash
 aranizer_bpe32k: Tailored for general language modeling with a 32k vocab size.
