@@ -68,12 +68,12 @@ Special thanks to Prince Sultan University and Riotu Lab, under the guidance of 
 ## Citations:
 If AraNizer benefits your research, please cite us:
 ```bash
-@misc{AraNizer,
+@misc{AraNizer_2023,
   title={Aranizer: A Custom Tokenizer for Enhanced Arabic Language Processing},
-  author={Omar Najar, Serry Sibaee, Lahouari Ghouti & Anis Kouba. Prince Sultan University, Riyadh, Saudi Arabia},
+  author={Najar, Omar and Sibaee, Serry and Ghouti, Lahouari and Kouba, Anis},
+  affiliation={Prince Sultan University, Riyadh, Saudi Arabia},
   year={2023},
   howpublished={\url{https://github.com/omarnj-lab/aranizer}}
-}
 ```
 
 
