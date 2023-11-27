@@ -1,7 +1,7 @@
 # AraNizer
 
 ## Description
-AraNizer is a sophisticated Python package offering a suite of custom tokenizers specifically designed for Arabic language processing. Built with SentencePiece and Byte Pair Encoding (BPE) methodologies, these tokenizers are engineered to be compatible with the `transformers` and `sentence_transformers` libraries. Each tokenizer in the AraNizer collection is optimized for different NLP tasks, accommodating a diverse range of vocabulary sizes to suit various linguistic scenarios.
+AraNizer contains custom tokenizers specifically designed for Arabic language processing. Built with SentencePiece and Byte Pair Encoding (BPE) methodologies, these tokenizers are engineered to be compatible with the `transformers` and `sentence_transformers` libraries. Each tokenizer in the AraNizer collection is optimized for different NLP tasks, accommodating a diverse range of vocabulary sizes to suit various linguistic scenarios.
 
 ## Installation
 Install AraNizer effortlessly with pip:
