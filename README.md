@@ -24,6 +24,7 @@ tokens = tokenizer.tokenize(text)
 print(tokens)
 ```
 AraNizers
+```bash
 aranizer_bpe32k: Tailored for general language modeling with a 32k vocab size.
 aranizer_bpe50k: Ideal for technical or scientific texts, featuring a 50k vocab size.
 aranizer_bpe64k: Provides comprehensive language coverage with a 64k vocab size.
@@ -32,27 +33,29 @@ aranizer_sp32k: Efficiently segments Arabic dialects with a 32k vocab size.
 aranizer_sp50k: Designed for complex text analysis, equipped with a 50k vocab size.
 aranizer_sp64k: Balances performance and breadth in NLP applications with a 64k vocab size.
 aranizer_sp86k: Supports multilingual and cross-lingual tasks with an 86k vocab size.
-Requirements
-transformers
-sentence_transformers
-License
+```
+Requirements:
+- transformers
+- sentence_transformers
+  
+License:
 This project is licensed under the MIT License.
 
-Contact
+Contact:
 For queries or assistance, please contact onajar@psu.edu.sa.
 
-Acknowledgments
+Acknowledgments:
 Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Kouba, for their invaluable support.
 
-Version
+Version:
 aranizer==0.1
 
-Citations
+Citations:
 If AraNizer benefits your research, please cite us:
 
 @misc{AraNizer,
   title={Aranizer: A Custom Tokenizer for Enhanced Arabic Language Processing},
-  author={Omar Najar, Serry Sibaee, Lahouari Ghouti & Dr. Anis Kouba. Prince Sultan University, Riyadh, Saudi Arabia},
+  author={Omar Najar, Serry Sibaee, Lahouari Ghouti & Anis Kouba. Prince Sultan University, Riyadh, Saudi Arabia},
   year={2023},
   howpublished={\url{https://github.com/omarnj-lab/aranizer}}
 }
