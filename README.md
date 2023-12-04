@@ -51,11 +51,7 @@ aranizer_sp86k: Supports multilingual and cross-lingual tasks with an 86k vocab 
 ```
 ## Requirements:
 - transformers
-- sentence_transformers
   
-## License:
-This project is licensed under the MIT License.
-
 ## Contact:
 For queries or assistance, please contact onajar@psu.edu.sa.
 
