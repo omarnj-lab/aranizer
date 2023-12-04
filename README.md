@@ -56,7 +56,7 @@ aranizer_sp86k: Supports multilingual and cross-lingual tasks with an 86k vocab 
 For queries or assistance, please contact onajar@psu.edu.sa.
 
 ## Acknowledgments:
-Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Kouba, for their invaluable support.
+Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Koubaa, for their invaluable support.
 
 ## Version:
 0.1
@@ -66,7 +66,7 @@ If AraNizer benefits your research, please cite us:
 ```bash
 @misc{AraNizer_2023,
   title={Aranizer: A Custom Tokenizer for Enhanced Arabic Language Processing},
-  author={Najar, Omar and Sibaee, Serry and Ghouti, Lahouari and Kouba, Anis},
+  author={Najar, Omar and Sibaee, Serry and Ghouti, Lahouari and Koubaa, Anis},
   affiliation={Prince Sultan University, Riyadh, Saudi Arabia},
   year={2023},
   howpublished={\url{https://github.com/omarnj-lab/aranizer}}
