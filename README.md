@@ -41,14 +41,14 @@ print(decoded_text)
 
 ## AraNizers
 ```bash
-aranizer_bpe32k: Tailored for general language modeling with a 32k vocab size.
-aranizer_bpe50k: Ideal for technical or scientific texts, featuring a 50k vocab size.
-aranizer_bpe64k: Provides comprehensive language coverage with a 64k vocab size.
-aranizer_bpe86k: Suitable for extensive vocabularies in large-scale NLP tasks with an 86k vocab size.
-aranizer_sp32k: Efficiently segments Arabic dialects with a 32k vocab size.
-aranizer_sp50k: Designed for complex text analysis, equipped with a 50k vocab size.
-aranizer_sp64k: Balances performance and breadth in NLP applications with a 64k vocab size.
-aranizer_sp86k: Supports multilingual and cross-lingual tasks with an 86k vocab size.
+- aranizer_bpe32k: Based on BEP Tokenizer with Vocab Size of 32k
+- aranizer_bpe50k: Based on BEP Tokenizer with Vocab Size of 50k
+- aranizer_bpe64k: Based on BEP Tokenizer with Vocab Size of 64k
+- aranizer_bpe86k: Based on BEP Tokenizer with Vocab Size of 86k
+- aranizer_sp32k: Based on Sentence Peice Tokenizer with Vocab Size of 32k
+- aranizer_sp50k: Based on Sentence Peice Tokenizer with Vocab Size of 50k
+- aranizer_sp64k: Based on Sentence Peice Tokenizer with Vocab Size of 64k
+- aranizer_sp86k: Based on Sentence Peice Tokenizer with Vocab Size of 86k
 ```
 ## Requirements:
 - transformers
