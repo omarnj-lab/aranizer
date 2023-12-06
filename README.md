@@ -6,12 +6,13 @@ AraNizer contains custom tokenizers specifically designed for Arabic language pr
 ## Installation
 Install AraNizer effortlessly with pip:
 ```bash
-pip install AraNizer
+pip install aranizer
 
 Usage 
 Start by importing the desired tokenizer from AraNizer:
+# Other aranizers: aranizer_bpe50k, aranizer_bpe64k, aranizer_bpe86k, aranizer_sp32k, aranizer_sp50k, aranizer_sp64k, aranizer_sp86k
 
-from AraNizer import aranizer_bpe32k, aranizer_bpe50k, aranizer_bpe64k, aranizer_bpe86k, aranizer_sp32k, aranizer_sp50k, aranizer_sp64k, aranizer_sp86k
+from AraNizer import aranizer_bpe32k
 
 Load your tokenizer:
 
@@ -59,7 +60,7 @@ For queries or assistance, please contact onajar@psu.edu.sa.
 Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Koubaa, for their invaluable support.
 
 ## Version:
-0.1
+0.1.4
 
 ## Citations:
 If AraNizer benefits your research, please cite us:
