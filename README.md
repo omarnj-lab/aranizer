@@ -16,7 +16,7 @@ from aranizer import aranizer_sp32k
 
 Load your tokenizer:
 
-tokenizer = aranizer_bpe32k.get_tokenizer()  # Replace aranizer_bpe32k with your chosen tokenizer
+tokenizer = aranizer_sp32k.get_tokenizer()  # Replace aranizer_bpe32k with your chosen tokenizer
 
 Example of tokenizing a text:
 
