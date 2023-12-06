@@ -12,7 +12,7 @@ Usage
 Start by importing the desired tokenizer from AraNizer:
 # Other aranizers: aranizer_bpe50k, aranizer_bpe64k, aranizer_bpe86k, aranizer_sp32k, aranizer_sp50k, aranizer_sp64k, aranizer_sp86k
 
-from AraNizer import aranizer_bpe32k
+from aranizer import aranizer_sp32k
 
 Load your tokenizer:
 
