@@ -60,7 +60,7 @@ For queries or assistance, please contact onajar@psu.edu.sa.
 Special thanks to Prince Sultan University and Riotu Lab, under the guidance of Dr. Lahouari Ghouti and Dr. Anis Koubaa, for their invaluable support.
 
 ## Version:
-0.1.4
+0.1.8
 
 ## Citations:
 If AraNizer benefits your research, please cite us:
